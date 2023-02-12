@@ -4,8 +4,8 @@
  * Plugin Name: User section
  * Plugin URL: https://github.com/bymaatt/user_section_plugin
  * Description: Este plugin es para personalizar los datos de usuarios de Wordpress
- * Autor: Matias Maciel
- * Autor URL: https://www.linkedin.com/in/matias-maciel-dev/
+ * Author: Matias Maciel
+ * Author URL: https://www.linkedin.com/in/matias-maciel-dev/
  * License: Free license
  */
     add_filter( 'user_contactmethods', 'modify_user_contact_methods' );
